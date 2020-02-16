@@ -30,5 +30,5 @@ library :
 ## user
 - login
 - create room
-- login
+- join room
 
